@@ -1,5 +1,5 @@
 _repo: The-Raiders-of-Saturn-s-Ring_61951
-_version: 0.1.0
+_version: 0.2.0
 alternative_title: The Raiders of Saturn's Rings
 contributor:
   illustrator:
@@ -9,6 +9,9 @@ contributor:
     deathdate: 1965
     gutenberg_agent_id: '32299'
     url: http://www.gutenberg.org/2009/agents/32299
+covers:
+- cover_type: archival
+  image_path: 61951-h/images/cover.jpg
 creator:
   author:
     agent_name: Gallun, Raymond Z.
@@ -21,6 +24,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/28382
     wikipedia: http://en.wikipedia.org/wiki/Raymond_Z._Gallun
 description: Listed in magazine table of contents as "The Raiders of Saturn's Rings."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/61951#The-Raiders-of-Saturn-s-Ring
 gutenberg_issued: '2020-04-27'
 gutenberg_type: Text
 identifiers:
