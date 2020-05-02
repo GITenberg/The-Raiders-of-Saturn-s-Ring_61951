@@ -1,0 +1,39 @@
+_repo: The-Raiders-of-Saturn-s-Ring_61951
+_version: 0.0.1
+alternative_title: The Raiders of Saturn's Rings
+contributor:
+  illustrator:
+    agent_name: Morey, Leo
+    alias: Morey y Pena, Leopoldo Raul
+    birthdate: 1889
+    deathdate: 1965
+    gutenberg_agent_id: '32299'
+    url: http://www.gutenberg.org/2009/agents/32299
+creator:
+  author:
+    agent_name: Gallun, Raymond Z.
+    aliases:
+    - Gallun, Raymond Zinke
+    - Gallun, Raymond Z. (Raymond Zinke)
+    birthdate: 1911
+    deathdate: 1994
+    gutenberg_agent_id: '28382'
+    url: http://www.gutenberg.org/2009/agents/28382
+    wikipedia: http://en.wikipedia.org/wiki/Raymond_Z._Gallun
+description: Listed in magazine table of contents as "The Raiders of Saturn's Rings."
+gutenberg_issued: '2020-04-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '61951'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Titan (Satellite) -- Fiction'
+- !lcsh 'Science fiction'
+- !lcsh 'War stories'
+- GITenberg
+title: The Raiders of Saturn's Ring
+url: http://www.gutenberg.org/ebooks/61951
